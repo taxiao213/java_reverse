@@ -10,8 +10,6 @@ import java.util.concurrent.LinkedBlockingQueue;
 /**
  * radare2 使用
  *
- * @Author: hanqq
- * @Date: 2022/11/28 14:41
  * CSDN:http://blog.csdn.net/yin13753884368/article
  * Github:https://github.com/taxiao213
  */
